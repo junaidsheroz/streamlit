@@ -29,3 +29,7 @@ if button:
     st.write('Your name is', st.write(name))
     st.write('Your roll number is', st.write(roll))
     st.write('Your date of birth is', st.write(date))
+
+
+# streamlit run hello.py
+# streamlit run filename.py
